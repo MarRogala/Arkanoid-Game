@@ -20,16 +20,16 @@ ___
 
 ## Screenshots
 
-Main menu
+### Main menu
 ![main_menu](img/readme_img/main_menu.png)
-Best scores
+### Best scores
 ![best_res](img/readme_img/best_res.png)
-Levels page
+### Levels page
 ![lvl_menu](img/readme_img/lvl_menu.png)
-One of levels
+### One of levels
 ![game2](img/readme_img/game2.png)
 ![game1](img/readme_img/game1.png)
-Endless game
+### Endless game
 ![inf_game](img/readme_img/inf_game.png)
 
 
