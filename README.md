@@ -1,6 +1,6 @@
 # Arkanoid
 
-Modified arkanoid game written in C with SDL2 library. The game contains different shapes of blocks, an endless game mode, a set od prepared levels and a simple best scores saving.
+Modified arkanoid game written in C with SDL2 library. The game contains different shapes of blocks, an endless game mode, a set of prepared levels and a simple best scores saving.
 
 ## Compilation and running
 ```
