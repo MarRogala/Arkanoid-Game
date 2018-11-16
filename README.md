@@ -2,6 +2,12 @@
 
 Modified arkanoid game written in C with SDL2 library. The game contains different shapes of blocks, an endless game mode, a set of prepared levels and a simple best scores saving.
 
+## Necessary libraries
++ SDL2
++ SDL_image
++ SDL_mixer
++ SDL_ttf
+
 ## Compilation and running
 ```
 cc -std=c99 `pkg-config --cflags --libs sdl2 SDL2_image SDL2_mixer SDL2_ttf` main.c menu.c dane.c game.c geometry.c -o main.o -o main
